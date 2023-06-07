@@ -1,0 +1,22 @@
+<!-- ADD THIS TO YOUR SITE -->
+
+  <style>
+    #invisible-frame {
+      display: none;
+    }
+  </style>
+  
+<!-- ADD TO BODY -->
+
+  <iframe id="invisible-frame"></iframe>
+
+  <script>
+    // Function to refresh the page in the invisible iframe
+    function refreshPage() {
+      var iframe = document.getElementById("invisible-frame");
+      iframe.src = "https://solo.to/johndoe"; // Replace with the desired page URL
+    }
+
+    // Call the refreshPage function every 4 seconds
+    setInterval(refreshPage, 3000);
+  </script>
