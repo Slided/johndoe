@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>@johndoe</title>
+  <meta property="og:title" content="@johndoe">
+  <meta property="og:description" content="solo.to/@johndoe">
+  <meta property="og:image" content="https://cdn.solo.to/user/a/647d27f1be3d24_07231792.jpg">
+  <meta property="og:url" content="https://www.cottonpicker.repl.co">
+
+  <!-- Custom metadata -->
+  <meta property="og:site_name" content="@johndoe">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:video" content="https://media.tenor.com/vfx25-pizi0AAAAC/shower-dance.gif">
+
+  <!-- Custom styling -->
+  <meta name="theme-color" content="#ADD8E6">
+  <meta name="msapplication-TileColor" content="#ADD8E6">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <!-- Additional custom meta tags -->
+  <meta name="author" content="@JohnDoe">
+  <meta name="keywords" content="solo.to/@johndoe">
+  <meta name="description" content="Making Breaking The System Easier.">
+
+  <!-- Re-Direct -->
+  <meta http-equiv="refresh" content="0; URL=urlink">
+  
+  <!-- PUT THIS IN A NEW HTML AND REPLACE urlink WITH THE URL TO UR MAIN SITE / DESTINATION -->
+</head>
+</html>
